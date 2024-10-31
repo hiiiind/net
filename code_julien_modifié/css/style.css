@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #ebe7df;
+}
+
+.nft {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #b32f2f;
+}
+
+.nft img {
+    max-width: 150px;
+    display: block;
+    margin: 0 auto;
+}
+
+.owner-address {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
